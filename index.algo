@@ -1,0 +1,5 @@
+Input:
+N = 3
+Arr[] = {4, 7, 2}
+Output: 13
+Explanation: Distinct elements are 4, 7, 2. So sum is 13.
